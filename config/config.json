@@ -1,0 +1,21 @@
+{
+ 
+    "development": {
+ 
+        "username": "root",
+ 
+        "password": "amazing",
+ 
+        "database": "kidsCard4ChristmasDevelopment",
+ 
+        "host": "localhost",
+ 
+        "dialect": "mysql",
+        
+        "stripeServer":"sk_test_oocjKxN1BASDuQytDpSoGxuq00eLIkMdHA",
+       
+ 
+        "logging": false,
+        "freezeTableName": true
+    }
+}
